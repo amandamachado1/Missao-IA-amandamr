@@ -96,41 +96,41 @@ const perguntas = [
         ]
     },
         {
-        enunciado: " Pergunta?",
+        enunciado: "Qual destas opções combina mais com você?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "Tenho paciência, gosto de ouvir e aconselhar.",
+                afirmacao: "Perfil de Psicologia, Educação, Saúde.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Sou objetivo, gosto de números e lógica.",
+                afirmacao: "Perfil de Ciências Contábeis, Administração, TI, Engenharia.",
             }
         ]
     },
         {
-        enunciado: " Pergunta?",
+        enunciado: "Se tivesse que escolher entre dois trabalhos:",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "Um hospital ou clínica, lidando com pacientes.",
+                afirmacao: "Perfil de Saúde.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Uma empresa de tecnologia, lidando com sistemas.",
+                afirmacao: "Perfil de Exatas/Tecnologia.",
             }
         ]
     },
         {
-        enunciado: " Pergunta?",
+        enunciado: "O que te traria mais satisfação?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "Ver pessoas melhorando e reconhecendo meu impacto.",
+                afirmacao: "Perfil de Saúde, Humanas, Educação.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Ver uma máquina, sistema ou experimento funcionando perfeitamente.",
+                afirmacao: "Perfil de Exatas, Agrárias, Tecnologia.",
             }
         ]
     },
