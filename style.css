@@ -1,8 +1,8 @@
 :root {
     --cor-fundo: #000000;        
     --cor-principal: #1c1c1c;    
-    --cor-secundaria: #333333;  
-    --cor-destaque: #00FF00;    
+    --cor-secundaria: #333333;   
+    --cor-destaque: #00FF00;     
     --cor-texto: #ffffff;        
 }
 
@@ -57,4 +57,12 @@ button:hover {
     font-weight: 700;
     color: var(--cor-destaque);
     line-height: 1.5em;
+}
+
+.rodape {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid var(--cor-secundaria); 
+    font-size: 0.8em;
+    color: rgba(0, 255, 0, 0.7); 
 }
